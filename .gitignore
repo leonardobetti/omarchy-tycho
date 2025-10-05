@@ -1,0 +1,6 @@
+# Gemini-generated files
+.gemini/
+
+# Config files
+*.config
+*.conf
