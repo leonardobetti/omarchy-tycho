@@ -1,5 +1,5 @@
 # omarchy-tycho
-Omarchy-Tycho is a minimalist, pastel theme for Omarchy inspired by the ambient soundscapes and visual aesthetics of musician/designer [Tycho (Scott Hansen)](https://tychomusic.com).
+Omarchy-Tycho is a minimalist dark pastel theme for [Omarchy Linux](https://omarchy.org/) inspired by the ambient soundscapes and visual aesthetics of musician/designer [Tycho (Scott Hansen)](https://tychomusic.com).
 
 ### Installation
 
@@ -46,3 +46,10 @@ ___
 - [Official Website](https://tychomusic.com)
 - [ISO50 Design Studio](https://iso50.com)
 - [Spotify](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry)
+
+
+___
+#### TODO / WIP
+[ ] add [VS Cocde](https://code.visualstudio.com/) theme
+[ ] add [bottom / btm](https://github.com/ClementTsang/bottom) theme
+[ ] add theme video on github
