@@ -50,6 +50,6 @@ ___
 
 ___
 #### TODO / WIP
-[ ] add [VS Cocde](https://code.visualstudio.com/) theme
-[ ] add [bottom / btm](https://github.com/ClementTsang/bottom) theme
-[ ] add theme video on github
+- [ ] add [VS Cocde](https://code.visualstudio.com/) theme
+- [ ] add [bottom / btm](https://github.com/ClementTsang/bottom) theme
+- [ ] add theme video on github
